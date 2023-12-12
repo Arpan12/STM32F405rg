@@ -3438,7 +3438,7 @@
     (property "Value" "SWD" (at 265.43 264.16 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_2x05_P1.27mm_Vertical_SMD" (at 264.16 273.05 0)
+    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" (at 264.16 273.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 264.16 273.05 0)
